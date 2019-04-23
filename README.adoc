@@ -50,3 +50,4 @@
 . [x] 教父1
 . [x] 如何阅读一本书？
 . [x] 文明之光1
+. [x] Kubernetes in Action
